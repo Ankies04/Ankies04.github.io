@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\robots.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\robots.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|c:\\users\\anksb\\source\\repos\\prjwwwshadelane\\prjwwwshadelane\\sitemap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\sitemap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|c:\\users\\anksb\\source\\repos\\prjwwwshadelane\\prjwwwshadelane\\sitemap.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\sitemap.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\views\\home\\signs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\views\\home\\signs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\views\\home\\prices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\views\\home\\prices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\views\\customize\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\views\\customize\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\models\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\models\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\models\\customizesignrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\models\\customizesignrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\controllers\\customizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\controllers\\customizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwshadelane\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BD47EAC4-9C00-44A9-AFF0-B7807E840132}|prjwwwShadeLane\\prjwwwShadeLane.csproj|solutionrelative:prjwwwshadelane\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sitemap.xml",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\sitemap.xml",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\sitemap.xml",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\sitemap.xml",
+              "RelativeToolTip": "prjwwwShadeLane\\sitemap.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-14T10:43:02.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sitemap.xml",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\sitemap.xml",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\sitemap.xml",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\sitemap.xml",
+              "RelativeToolTip": "prjwwwShadeLane\\sitemap.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-09T10:17:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "robots.txt",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\robots.txt",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\robots.txt",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\robots.txt",
+              "RelativeToolTip": "prjwwwShadeLane\\robots.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-09T10:11:02.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "prjwwwShadeLane\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T21:35:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prices.cshtml",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Home\\Prices.cshtml",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Views\\Home\\Prices.cshtml",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Home\\Prices.cshtml",
+              "RelativeToolTip": "prjwwwShadeLane\\Views\\Home\\Prices.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T21:46:36.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Signs.cshtml",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Home\\Signs.cshtml",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Views\\Home\\Signs.cshtml",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Home\\Signs.cshtml",
+              "RelativeToolTip": "prjwwwShadeLane\\Views\\Home\\Signs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T21:46:23.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "prjwwwShadeLane\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T21:46:53.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Customize\\Index.cshtml",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Views\\Customize\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Views\\Customize\\Index.cshtml",
+              "RelativeToolTip": "prjwwwShadeLane\\Views\\Customize\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T21:47:28.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sign.cs",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Models\\Sign.cs",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Models\\Sign.cs",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Models\\Sign.cs",
+              "RelativeToolTip": "prjwwwShadeLane\\Models\\Sign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:36:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomizeSignRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Models\\CustomizeSignRequest.cs",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Models\\CustomizeSignRequest.cs",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Models\\CustomizeSignRequest.cs",
+              "RelativeToolTip": "prjwwwShadeLane\\Models\\CustomizeSignRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:37:18.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "prjwwwShadeLane\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:30:33.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomizeController.cs",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Controllers\\CustomizeController.cs",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\Controllers\\CustomizeController.cs",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\Controllers\\CustomizeController.cs",
+              "RelativeToolTip": "prjwwwShadeLane\\Controllers\\CustomizeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:30:22.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "prjwwwShadeLane\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\anksb\\source\\repos\\prjwwwShadeLane\\prjwwwShadeLane\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "prjwwwShadeLane\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-07T22:08:58.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

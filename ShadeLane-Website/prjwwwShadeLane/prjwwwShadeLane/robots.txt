@@ -1,0 +1,4 @@
+﻿User-agent: *
+Disallow: /admin/
+Allow: /public/
+Sitemap: http://www.shadelane.com/sitemap.xml
